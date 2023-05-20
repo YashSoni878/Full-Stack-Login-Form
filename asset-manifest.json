@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Full-Stack-Login-Form/static/css/main.92721833.css",
+    "main.js": "/Full-Stack-Login-Form/static/js/main.b416465a.js",
+    "static/js/787.3e128b3f.chunk.js": "/Full-Stack-Login-Form/static/js/787.3e128b3f.chunk.js",
+    "index.html": "/Full-Stack-Login-Form/index.html",
+    "main.92721833.css.map": "/Full-Stack-Login-Form/static/css/main.92721833.css.map",
+    "main.b416465a.js.map": "/Full-Stack-Login-Form/static/js/main.b416465a.js.map",
+    "787.3e128b3f.chunk.js.map": "/Full-Stack-Login-Form/static/js/787.3e128b3f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.92721833.css",
+    "static/js/main.b416465a.js"
+  ]
+}
