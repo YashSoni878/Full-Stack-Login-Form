@@ -5,9 +5,47 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background: #020024;
+  color:#ddd
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+/* Start Nav */
+.custom-nav .collapse{
+  justify-content: flex-end;
+}
+/* End Nav */
+
+/* Start login */
+.login{
+  min-height: 100vh;
+  align-items: center;
+  background: linear-gradient(
+    90deg,
+    rgba(2, 0, 36, 0) 20%,
+    rgb(2, 126, 178) 56%,
+    rgba(2, 0, 36, 1) 73%
+  );
+}
+
+.login h6{
+  margin-top: 15px;
+}
+/* End login */
+
+/* Start register */
+.register{
+  min-height: 100vh;
+  align-items: center;
+  background: linear-gradient(
+    90deg,
+    rgba(2, 0, 36, 0) 20%,
+    rgb(0, 127, 181) 56%,
+    rgba(2, 0, 36, 1) 73%
+  );
+}
+/* End register */
